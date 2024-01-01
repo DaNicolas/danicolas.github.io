@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en"
 title                    : "Nicolas Daans"
 title_separator          : "-"
 name                     : &name "Nicolas Daans"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nicolas Daans"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Charles University - Prague, Czechia"
