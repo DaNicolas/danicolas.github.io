@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Prague, Czechia"
-  employer         : "<a href='https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=16596'>Charles University MFF</a>"
+  employer         : "<a href='https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=16596'>CU MFF</a>"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
