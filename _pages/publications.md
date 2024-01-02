@@ -27,8 +27,8 @@ Karim Johannes Becher et al. "The Pythagoras number of a rational function field
 
 [arXiv](https://arxiv.org/abs/2302.11425)
 
-### Universally defining Z in Q with 10 quantifiers
-Nicolas Daans. "Universally defining $\mathbb{Z}$ in Q with 10 quantifiers". Accepted for publication in Journal of the London Mathematical Society. Available as arXiv:2301.02107. Jan. 2023.
+### Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers
+Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with 10 quantifiers". Accepted for publication in Journal of the London Mathematical Society. Available as arXiv:2301.02107. Jan. 2023.
 
 [arXiv](https://arxiv.org/abs/2301.02107)
 
