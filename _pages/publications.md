@@ -10,6 +10,8 @@ header-includes:
 ### Universally defining finitely generated subrings of global fields
 Nicolas Daans. "Universally defining finitely generated subrings of global fields". In: *Documenta Mathematica* 26 (2021), pp. 1851-1869.
 
+[published version](https://doi.org/10.4171/dm/858), [arXiv](https://arxiv.org/abs/1812.04372)
+
 ## Preprints
 
 ### Uniform existential definitions of valuations in function fields in one variable
