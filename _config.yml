@@ -83,8 +83,8 @@ author:
   name             : "Nicolas Daans"
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Charles University MFF"
-  employer         : "Charles University MFF"
+  location         : "Prague, Czechia"
+  employer         : "<a href='https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=16596'>Charles University MFF</a>"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -227,15 +216,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
