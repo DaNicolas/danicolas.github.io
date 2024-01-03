@@ -1,14 +1,14 @@
 ---
-title: "A universal definition of $\mathbb{Z}$ in $\mathbb{Q}"
+header-includes:
+   - \usepackage{amssymb}
+title: "A universal definition of Z in Q"
 collection: talks
-type: "Colloquium talk"
+type: "Talk"
 permalink: /talks/2022-08-21
 venue: "Universität Augsburg, Oberseminar zur Algebra und Zahlentheorie"
 date: 2022-08-21
-location: "Augsburg, Germany"
+location: "Augsburg, Germany (online)"
 excerpt: "A variation of this talk was also given at the Algebra and Number Theory Seminar at Penn State on October 7, 2020."
-header-includes:
-   - \usepackage{amssymb}
 ---
 
 **Abstract:** It is a long-standing open problem whether the ring of integers $\mathbb{Z}$ has an existential first-order definition in $\mathbb{Q}$, the field of rational numbers. A few years ago, Jochen Koenigsmann proved that $\mathbb{Z}$ has a universal first-order definition in $\mathbb{Q}$, building on earlier work by Bjorn Poonen. This result was later generalised to number fields and to global function fields, using classical machinery from number theory and class field theory related to the behaviour of quaternion algebras over global and local fields.  
