@@ -7,6 +7,11 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+### Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers
+Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers". Accepted for publication in Journal of the London Mathematical Society. Available as arXiv:2301.02107. Jan. 2023.
+
+[arXiv](https://arxiv.org/abs/2301.02107)
+
 ### Universally defining finitely generated subrings of global fields
 Nicolas Daans. "Universally defining finitely generated subrings of global fields". In: *Documenta Mathematica* 26 (2021), pp. 1851-1869.
 
@@ -25,14 +30,9 @@ Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms 
 [arXiv](https://arxiv.org/abs/2308.16721)
 
 ### The Pythagoras number of a rational function field in two variables
-Karim Johannes Becher et al. "The Pythagoras number of a rational function field in two variables". Available as arXiv:2302.11425. Feb. 2023.
+Karim Johannes Becher, Nicolas Daans, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli. "The Pythagoras number of a rational function field in two variables". Available as arXiv:2302.11425. Feb. 2023.
 
 [arXiv](https://arxiv.org/abs/2302.11425)
-
-### Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers
-Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers". Accepted for publication in Journal of the London Mathematical Society. Available as arXiv:2301.02107. Jan. 2023.
-
-[arXiv](https://arxiv.org/abs/2301.02107)
 
 ### Existential rank and essential dimension of diophantine sets
 Nicolas Daans, Philip Dittmann, and Arno Fehm. "Existential rank and essential dimension of diophantine sets". Available as arXiv:2102.06941. Oct. 2021.
