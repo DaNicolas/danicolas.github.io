@@ -8,12 +8,12 @@ header-includes:
 ---
 
 ### Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers
-Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers". Accepted for publication in Journal of the London Mathematical Society. Available as arXiv:2301.02107. Jan. 2023.  
-[arXiv](https://arxiv.org/abs/2301.02107)
+Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers". In: *Journal of the London Mathematical Society* 109.2 (2024), e12864. [https://doi.org/10.1112/jlms.12864](https://doi.org/10.1112/jlms.12864)  
+[published version](https://onlinelibrary.wiley.com/share/author/39Q8EYSVTCDTHNNJDFY9?target=10.1112/jlms.12864), [arXiv](https://arxiv.org/abs/2301.02107)
 
 ### Universally defining finitely generated subrings of global fields
-Nicolas Daans. "Universally defining finitely generated subrings of global fields". In: *Documenta Mathematica* 26 (2021), pp. 1851-1869.  
-[published version](https://doi.org/10.4171/dm/858), [arXiv](https://arxiv.org/abs/1812.04372)
+Nicolas Daans. "Universally defining finitely generated subrings of global fields". In: *Documenta Mathematica* 26 (2021), pp. 1851-1869. [https://doi.org/10.4171/dm/858](https://doi.org/10.4171/dm/858)  
+[published version](https://ems.press/content/serial-article-files/26638), [arXiv](https://arxiv.org/abs/1812.04372)
 
 ## Preprints
 
