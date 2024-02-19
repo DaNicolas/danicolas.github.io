@@ -17,6 +17,10 @@ Nicolas Daans. "Universally defining finitely generated subrings of global field
 
 ## Preprints
 
+### Linkage of Pfister forms over semi-global fields
+Nicolas Daans. "Linkage of Pfister forms over semi-global fields". Available as arXiv:2402.10826. Feb. 2024.  
+[arXiv](https://arxiv.org/abs/2402.10826)
+
 ### Uniform existential definitions of valuations in function fields in one variable
 Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "Uniform existential definitions of valuations in function fields in one variable". Available as arXiv:2311.06044. Nov. 2023.  
 [arXiv](https://arxiv.org/abs/2311.06044)
