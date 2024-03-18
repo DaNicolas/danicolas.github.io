@@ -45,16 +45,16 @@ Under the supervision of Karim Johannes Becher and Philip Dittmann.
 [University of Antwerp repository](https://hdl.handle.net/10067/1903760151162165141)
 
 ### Master thesis: Diophantine definability in number fields and their rings of integers
-Nicolas Daans. "Diophantine definability in number fields and their rings of integers". Master thesis. University of Antwerp, 2018.
+Nicolas Daans. "Diophantine definability in number fields and their rings of integers". Master thesis. University of Antwerp, 2018.  
 Under the supervision of Karim Johannes Becher.
 [pdf](/files/masterproef.pdf)
 
 ### Bachelor thesis: Het pythagorasgetal van enkele commutatieve ringen
 Nicolas Daans. "Het pythagorasgetal van enkele commutatieve ringen [The Pythagoras number of certain commutative rings]". Bachelor thesis. University of Antwerp, 2016.  
-Under the supervision of Karim Johannes Becher.  
+Under the supervision of Karim Johannes Becher.
 [Scriptiebank](https://www.scriptiebank.be/sites/default/files/thesis/2016-09/Het%20Pythagorasgetal_0.pdf)
 
 ### Bachelor thesis: Iteratieve methoden voor de golfvergelijking
-Nicolas Daans. "Iteratieve methoden voor de golfvergelijking [Iterative methods for the wave equation]". Bachelor thesis, University of Antwerp, 2016.  
-Under the supervision of Wim Vanroose and Siegfried Cools.  
+Nicolas Daans. "Iteratieve methoden voor de golfvergelijking [Iterative methods for the wave equation]". Bachelor thesis. University of Antwerp, 2016.  
+Under the supervision of Wim Vanroose and Siegfried Cools.
 [pdf](/files/Helmholtzvergelijking.pdf)
