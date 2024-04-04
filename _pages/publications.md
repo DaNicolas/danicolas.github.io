@@ -17,6 +17,10 @@ Nicolas Daans. "Universally defining finitely generated subrings of global field
 
 ## Preprints
 
+### Universally defining subrings in function fields
+Nicolas Daans and Philip Dittmann. "Universally defining subrings in function fields". Available as arXiv:2404.02749. Apr. 2024.  
+[arXiv](https://arxiv.org/abs/2404.02749)
+
 ### Linkage of Pfister forms over semi-global fields
 Nicolas Daans. "Linkage of Pfister forms over semi-global fields". Available as arXiv:2402.10826. Feb. 2024.  
 [arXiv](https://arxiv.org/abs/2402.10826)
