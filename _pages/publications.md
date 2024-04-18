@@ -56,7 +56,7 @@ Under the supervision of Karim Johannes Becher.
 ### Bachelor thesis: Het pythagorasgetal van enkele commutatieve ringen
 Nicolas Daans. "Het pythagorasgetal van enkele commutatieve ringen [The Pythagoras number of certain commutative rings]". Bachelor thesis. University of Antwerp, 2016.  
 Under the supervision of Karim Johannes Becher.
-[Scriptiebank](https://www.scriptiebank.be/sites/default/files/thesis/2016-09/Het%20Pythagorasgetal_0.pdf)
+[Scriptiebank](https://scriptiebank.be/het-pythagorasgetal-van-enkele-commutatieve-ringen)
 
 ### Bachelor thesis: Iteratieve methoden voor de golfvergelijking
 Nicolas Daans. "Iteratieve methoden voor de golfvergelijking [Iterative methods for the wave equation]". Bachelor thesis. University of Antwerp, 2016.  
