@@ -17,7 +17,7 @@ Nicolas Daans. "Universally defining finitely generated subrings of global field
 
 ## Preprints
 
-### Failure of integral Springer's Theorem
+### Failures of integral Springer's Theorem
 Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "Failures of integral Springer's Theorem". Available as arXiv:2404.12844. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.12844)
 
