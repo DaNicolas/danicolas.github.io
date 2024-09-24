@@ -18,7 +18,7 @@ Nicolas Daans. "Universally defining finitely generated subrings of global field
 ## Preprints
 
 ### Most totally real fields do not have universal forms or Northcott property
-Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, Pavlo Yatsyna. "Most totally real fields do not have universal forms or Northcott property". Available as arXiv:2409.11082. Sep. 2024.
+Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, Pavlo Yatsyna. "Most totally real fields do not have universal forms or Northcott property". Available as arXiv:2409.11082. Sep. 2024.  
 [arXiv](https://arxiv.org/abs/2409.11082)
 
 ### Failures of integral Springer's Theorem
