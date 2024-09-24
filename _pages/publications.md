@@ -38,7 +38,7 @@ Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "Uniform existential 
 [arXiv](https://arxiv.org/abs/2311.06044)
 
 ### Universal quadratic forms and Northcott property of infinite number fields
-Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". Available as arXiv:2308.16721. Aug. 2023.  
+Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". Accepted for publication in *Journal of the London Mathematical Society*. Available as arXiv:2308.16721. Aug. 2023.  
 [arXiv](https://arxiv.org/abs/2308.16721)
 
 ### The Pythagoras number of a rational function field in two variables
