@@ -7,6 +7,11 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+### Linkage of Pfister forms over semi-global fields
+Nicolas Daans. "Linkage of Pfister forms over semi-global fields". In: *Mathematische Zeitschrift* 308 (2024), 41.  
+[published version](https://doi.org/10.1007/s00209-024-03598-2),
+[arXiv](https://arxiv.org/abs/2402.10826)
+
 ### Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers
 Nicolas Daans. "Universally defining $\mathbb{Z}$ in $\mathbb{Q}$ with $10$ quantifiers". In: *Journal of the London Mathematical Society* 109.2 (2024), e12864. [https://doi.org/10.1112/jlms.12864](https://doi.org/10.1112/jlms.12864)  
 [published version](https://onlinelibrary.wiley.com/share/author/39Q8EYSVTCDTHNNJDFY9?target=10.1112/jlms.12864), [arXiv](https://arxiv.org/abs/2301.02107)
@@ -28,10 +33,6 @@ Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "Failur
 ### Universally defining subrings in function fields
 Nicolas Daans and Philip Dittmann. "Universally defining subrings in function fields". Available as arXiv:2404.02749. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.02749)
-
-### Linkage of Pfister forms over semi-global fields
-Nicolas Daans. "Linkage of Pfister forms over semi-global fields". Accepted for publication in *Mathematische Zeitschrift*. Available as arXiv:2402.10826. Feb. 2024.  
-[arXiv](https://arxiv.org/abs/2402.10826)
 
 ### Uniform existential definitions of valuations in function fields in one variable
 Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "Uniform existential definitions of valuations in function fields in one variable". Available as arXiv:2311.06044. Nov. 2023.  
