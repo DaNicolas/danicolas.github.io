@@ -7,6 +7,11 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+### Universal quadratic forms and Northcott property of infinite number fields
+Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". In: *Journal of the London Mathematical Society* 110.5 (2024), e70022. [https://doi.org/10.1112/jlms.70022](https://doi.org/10.1112/jlms.70022)
+[published version](https://londmathsoc.onlinelibrary.wiley.com/share/CWFKABQHIRKFKWDVFDPW?target=10.1112/jlms.70022)
+[arXiv](https://arxiv.org/abs/2308.16721)
+
 ### Linkage of Pfister forms over semi-global fields
 Nicolas Daans. "Linkage of Pfister forms over semi-global fields". In: *Mathematische Zeitschrift* 308 (2024), 41.  
 [published version](https://doi.org/10.1007/s00209-024-03598-2),
@@ -37,10 +42,6 @@ Nicolas Daans and Philip Dittmann. "Universally defining subrings in function fi
 ### Uniform existential definitions of valuations in function fields in one variable
 Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "Uniform existential definitions of valuations in function fields in one variable". Available as arXiv:2311.06044. Nov. 2023.  
 [arXiv](https://arxiv.org/abs/2311.06044)
-
-### Universal quadratic forms and Northcott property of infinite number fields
-Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". Accepted for publication in *Journal of the London Mathematical Society*. Available as arXiv:2308.16721. Aug. 2023.  
-[arXiv](https://arxiv.org/abs/2308.16721)
 
 ### The Pythagoras number of a rational function field in two variables
 Karim Johannes Becher, Nicolas Daans, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli. "The Pythagoras number of a rational function field in two variables". Available as arXiv:2302.11425. Feb. 2023.  
