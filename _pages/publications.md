@@ -8,12 +8,12 @@ header-includes:
 ---
 
 ### Universal quadratic forms and Northcott property of infinite number fields
-Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". In: *Journal of the London Mathematical Society* 110.5 (2024), e70022. [https://doi.org/10.1112/jlms.70022](https://doi.org/10.1112/jlms.70022)
+Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "Universal quadratic forms and Northcott property of infinite number fields". In: *Journal of the London Mathematical Society* 110.5 (2024), e70022. [https://doi.org/10.1112/jlms.70022](https://doi.org/10.1112/jlms.70022)  
 [published version](https://londmathsoc.onlinelibrary.wiley.com/share/CWFKABQHIRKFKWDVFDPW?target=10.1112/jlms.70022)
 [arXiv](https://arxiv.org/abs/2308.16721)
 
 ### Linkage of Pfister forms over semi-global fields
-Nicolas Daans. "Linkage of Pfister forms over semi-global fields". In: *Mathematische Zeitschrift* 308 (2024), 41.  
+Nicolas Daans. "Linkage of Pfister forms over semi-global fields". In: *Mathematische Zeitschrift* 308 (2024), 41.  [https://doi.org/10.1007/s00209-024-03598-2](https://doi.org/10.1007/s00209-024-03598-2)  
 [published version](https://doi.org/10.1007/s00209-024-03598-2),
 [arXiv](https://arxiv.org/abs/2402.10826)
 
