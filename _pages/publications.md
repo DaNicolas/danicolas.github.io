@@ -23,6 +23,9 @@ Nicolas Daans. "**Universally defining finitely generated subrings of global fie
 
 ## Preprints
 
+Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan. 2025.  
+[arXiv](https://arxiv.org/abs/2501.14249)
+
 Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". Available as arXiv:2409.11082. Sep. 2024.  
 [arXiv](https://arxiv.org/abs/2409.11082)
 
