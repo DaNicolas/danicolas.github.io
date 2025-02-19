@@ -23,6 +23,12 @@ Nicolas Daans. "**Universally defining finitely generated subrings of global fie
 
 ## Preprints
 
+Karim Johannes Becher, Nicolas Daans, and Vlerë Mehmeti. "**The u-invariant of function fields in one variable**". Available as arXiv:2502.13086. Feb 2025.  
+[arXiv](https://arxiv.org/abs/2502.13086)
+
+Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields**". Available as arXiv:2502.11222. Feb. 2025.  
+[arXiv](https://arxiv.org/abs/2502.11222)
+
 Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan. 2025.  
 [arXiv](https://arxiv.org/abs/2501.14249)
 
