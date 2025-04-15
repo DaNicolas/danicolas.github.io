@@ -36,7 +36,7 @@ Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras n
 Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan. 2025.  
 [arXiv](https://arxiv.org/abs/2501.14249)
 
-Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". Available as arXiv:2409.11082. Sep. 2024.  
+Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". Available as arXiv:2409.11082. Sep. 2024. Accepted for publication in *Proceedings of the National Academy of Sciences (PNAS)*.  
 [arXiv](https://arxiv.org/abs/2409.11082)
 
 Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024.  
