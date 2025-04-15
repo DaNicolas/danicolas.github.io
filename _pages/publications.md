@@ -7,8 +7,12 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "**Failures of integral Springer's Theorem**". In: *Proceedings of the American Mathematical Society* 153 (2025), pp. 2369-2379. [https://doi.org/10.1090/proc/17141](https://doi.org/10.1090/proc/17141)  
+[published version](https://doi.org/10.1090/proc/17141),
+[arXiv](https://arxiv.org/abs/2404.12844)
+
 Nicolas Daans, Vı́tězslav Kala, and Siu Hang Man. "**Universal quadratic forms and Northcott property of infinite number fields**". In: *Journal of the London Mathematical Society* 110.5 (2024), e70022. [https://doi.org/10.1112/jlms.70022](https://doi.org/10.1112/jlms.70022)  
-[published version](https://londmathsoc.onlinelibrary.wiley.com/share/CWFKABQHIRKFKWDVFDPW?target=10.1112/jlms.70022)
+[published version](https://londmathsoc.onlinelibrary.wiley.com/share/CWFKABQHIRKFKWDVFDPW?target=10.1112/jlms.70022),
 [arXiv](https://arxiv.org/abs/2308.16721)
 
 Nicolas Daans. "**Linkage of Pfister forms over semi-global fields**". In: *Mathematische Zeitschrift* 308 (2024), 41.  [https://doi.org/10.1007/s00209-024-03598-2](https://doi.org/10.1007/s00209-024-03598-2)  
@@ -34,9 +38,6 @@ Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan.
 
 Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". Available as arXiv:2409.11082. Sep. 2024.  
 [arXiv](https://arxiv.org/abs/2409.11082)
-
-Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "**Failures of integral Springer's Theorem**". Available as arXiv:2404.12844. Apr. 2024. Accepted for publication in *Proceedings of the American Mathematical Society*. [https://doi.org/10.1090/proc/17141](https://doi.org/10.1090/proc/17141)  
-[arXiv](https://arxiv.org/abs/2404.12844)
 
 Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.02749)
