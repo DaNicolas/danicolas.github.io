@@ -7,6 +7,10 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". In *Proceedings of the National Academy of Sciences (PNAS)* 122.20 (2025), e2419414122. [https://doi.org/10.1073/pnas.2419414122](https://doi.org/10.1073/pnas.2419414122)  
+[published version](https://www.pnas.org/doi/pdf/10.1073/pnas.2419414122)
+[arXiv](https://arxiv.org/abs/2409.11082)
+
 Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "**Failures of integral Springer's Theorem**". In: *Proceedings of the American Mathematical Society* 153 (2025), pp. 2369-2379. [https://doi.org/10.1090/proc/17141](https://doi.org/10.1090/proc/17141)  
 [published version](https://doi.org/10.1090/proc/17141),
 [arXiv](https://arxiv.org/abs/2404.12844)
@@ -35,9 +39,6 @@ Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras n
 
 Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan. 2025.  
 [arXiv](https://arxiv.org/abs/2501.14249)
-
-Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". Available as arXiv:2409.11082. Sep. 2024. Accepted for publication in *Proceedings of the National Academy of Sciences (PNAS)*.  
-[arXiv](https://arxiv.org/abs/2409.11082)
 
 Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.02749)
