@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I'm a mathematics researcher, currently employed as an FWO junior postdoctoral fellow at the Section of Algebra in [KU Leuven - Department of Mathematics](https://wis.kuleuven.be/algebra) under supervision of [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/).
-I am also an FNRS postdoctoral researcher at the [University of Mons](https://web.umons.ac.be/fs-mathematique/en/home/).
+From October 2025 onward, I will be employed as FNRS postdoctoral researcher at the [University of Mons](https://web.umons.ac.be/fs-mathematique/en/home/) under supervision of Christian Michaux and Maja Volkov.
 
 On this website you may find links to my publications and preprints, slides and sometimes recordings of talks I have given, as well as material supporting courses I teach or have taught in the past.
 
