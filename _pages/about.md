@@ -21,4 +21,4 @@ Belgium
 
 **To visit me**: My office is room 01.28 on the address mentioned above.
 
-**E-mail**: nicolas.daans (at) kuleuven.be
+**E-mail**: nicolas.daans (at) kuleuven.be; nicolas.daans (at) umons.ac.be *(from October 2025 onward)*
