@@ -33,7 +33,7 @@ On this website you may find links to my publications and preprints, slides and 
 <div class="flex-container">
 <div class="flex-column" markdown="1">
 
-### Mons
+## University of Mons
 
 **Postal address:**  
 Nicolas Daans  
@@ -49,7 +49,7 @@ Belgium
 </div>
 <div class="flex-column" markdown="1">
 
-### Leuven
+## KU Leuven
 
 **Postal address:**  
 Nicolas Daans  
