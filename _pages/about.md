@@ -38,7 +38,7 @@ On this website you may find links to my publications and preprints, slides and 
 **Postal address:**  
 Nicolas Daans  
 Département de Mathématique  
-Avenue Maistriau 15
+Avenue Maistriau 15  
 7000 Mons  
 Belgium  
 
