@@ -38,11 +38,11 @@ On this website you may find links to my publications and preprints, slides and 
 **Postal address:**  
 Nicolas Daans  
 Département de Mathématique  
-Avenue Maistriau 15  
+Place du Parc 20  
 7000 Mons  
 Belgium  
 
-**To visit me**: My office is room 02.44 on the address mentioned above (building De Vinci).
+**To visit me**: My office is in room 02.44 of the De Vinci building at Avenue Maistriau 15, 7000 Mons.
 
 **E-mail**: nicolas.daans (at) umons.ac.be
 
@@ -58,7 +58,7 @@ Celestijnenlaan 200B bus 2400
 3001 Heverlee  
 Belgium  
 
-**To visit me**: My office is room 01.28 on the address mentioned above.
+**To visit me**: My office is room 01.28 at the address mentioned above.
 
 **E-mail**: nicolas.daans (at) kuleuven.be
 
