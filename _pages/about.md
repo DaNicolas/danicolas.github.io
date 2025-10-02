@@ -31,7 +31,7 @@ On this website you may find links to my publications and preprints, slides and 
 </style>
 
 <div class="flex-container">
-<div class="flex-column">
+<div class="flex-column" markdown="1">
 
 ### Mons
 
@@ -47,7 +47,7 @@ Belgium
 **E-mail**: nicolas.daans (at) umons.ac.be
 
 </div>
-<div class="flex-column">
+<div class="flex-column" markdown="1">
 
 ### Leuven
 
