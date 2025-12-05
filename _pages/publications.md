@@ -31,6 +31,9 @@ Nicolas Daans. "**Universally defining finitely generated subrings of global fie
 
 ## Preprints
 
+Nicolas Daans. "**Existentially defining valuations in function fields over large fields**". Available as arXiv:2512.04896. Dec. 2025.  
+[arXiv](https://arxiv.org/abs/2512.04896)
+
 Nicolas Daans. "**Decidability of polynomial equations over function fields in positive characteristic**". Available as arXiv:2509.02290. Sep. 2025.  
 [arXiv](https://arxiv.org/abs/2509.02290)
 
