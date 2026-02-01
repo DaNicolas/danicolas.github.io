@@ -7,8 +7,12 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields **". In *Revista Matemática Complutense* (2026). [https://doi.org/10.1007/s13163-026-00562-y](https://doi.org/10.1007/s13163-026-00562-y)  
+[published version](https://link.springer.com/content/pdf/10.1007/s13163-026-00562-y.pdf),
+[arXiv](https://arxiv.org/abs/2502.11222)
+
 Center for AI Safety, Scale AI, & HLE Contributors Consortium. "**A benchmark of expert-level academic questions to assess AI capabilities**". In *Nature* 649 (2026), pp. 1139-1146. [https://doi.org/10.1038/s41586-025-09962-4](https://doi.org/10.1038/s41586-025-09962-4)  
-[published version](https://www.nature.com/articles/s41586-025-09962-4.pdf)
+[published version](https://www.nature.com/articles/s41586-025-09962-4.pdf),
 [arXiv](https://arxiv.org/abs/2501.14249)
 
 Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". In *Proceedings of the National Academy of Sciences (PNAS)* 122.20 (2025), e2419414122. [https://doi.org/10.1073/pnas.2419414122](https://doi.org/10.1073/pnas.2419414122)  
@@ -43,9 +47,6 @@ Nicolas Daans. "**Decidability of polynomial equations over function fields in p
 
 Karim Johannes Becher, Nicolas Daans, and Vlerë Mehmeti. "**The u-invariant of function fields in one variable**". Available as arXiv:2502.13086. Feb. 2025.  
 [arXiv](https://arxiv.org/abs/2502.13086)
-
-Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields**". Available as arXiv:2502.11222. Feb. 2025.  
-[arXiv](https://arxiv.org/abs/2502.11222)
 
 Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.02749)
