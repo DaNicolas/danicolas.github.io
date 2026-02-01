@@ -7,7 +7,7 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
-Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields **". In *Revista Matemática Complutense* (2026). [https://doi.org/10.1007/s13163-026-00562-y](https://doi.org/10.1007/s13163-026-00562-y)  
+Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields**". In *Revista Matemática Complutense* (2026). [https://doi.org/10.1007/s13163-026-00562-y](https://doi.org/10.1007/s13163-026-00562-y)  
 [published version](https://link.springer.com/content/pdf/10.1007/s13163-026-00562-y.pdf),
 [arXiv](https://arxiv.org/abs/2502.11222)
 
