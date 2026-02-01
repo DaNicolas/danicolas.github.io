@@ -7,8 +7,12 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+Center for AI Safety, Scale AI, & HLE Contributors Consortium. "**A benchmark of expert-level academic questions to assess AI capabilities**". In *Nature* 649 (2026), pp. 1139-1146. [https://doi.org/10.1038/s41586-025-09962-4](https://doi.org/10.1038/s41586-025-09962-4)  
+[published version](https://www.nature.com/articles/s41586-025-09962-4.pdf)
+[arXiv](https://arxiv.org/abs/2501.14249)
+
 Nicolas Daans, Vı́tězslav Kala, Siu Hang Man, Martin Widmer, and Pavlo Yatsyna. "**Most totally real fields do not have universal forms or Northcott property**". In *Proceedings of the National Academy of Sciences (PNAS)* 122.20 (2025), e2419414122. [https://doi.org/10.1073/pnas.2419414122](https://doi.org/10.1073/pnas.2419414122)  
-[published version](https://www.pnas.org/doi/pdf/10.1073/pnas.2419414122)
+[published version](https://www.pnas.org/doi/pdf/10.1073/pnas.2419414122),
 [arXiv](https://arxiv.org/abs/2409.11082)
 
 Nicolas Daans, Vı́tězslav Kala, Jakub Krásenský, and Pavlo Yatsyna. "**Failures of integral Springer's Theorem**". In: *Proceedings of the American Mathematical Society* 153 (2025), pp. 2369-2379. [https://doi.org/10.1090/proc/17141](https://doi.org/10.1090/proc/17141)  
@@ -42,9 +46,6 @@ Karim Johannes Becher, Nicolas Daans, and Vlerë Mehmeti. "**The u-invariant of 
 
 Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields**". Available as arXiv:2502.11222. Feb. 2025.  
 [arXiv](https://arxiv.org/abs/2502.11222)
-
-Long Phan et al. "**Humanity's Last Exam**". Available as arXiv:2501.14249. Jan. 2025.  
-[arXiv](https://arxiv.org/abs/2501.14249)
 
 Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024.  
 [arXiv](https://arxiv.org/abs/2404.02749)
