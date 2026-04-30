@@ -7,6 +7,10 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
+Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". In: *Journal für die reine und angewandte Mathematik* (2026), Ahead of print. [https://doi.org/10.1515/crelle-2026-0026](https://doi.org/10.1515/crelle-2026-0026)  
+[published version](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2026-0026/pdf?licenseType=open-access),
+[arXiv](https://arxiv.org/abs/2404.02749)
+
 Nicolas Daans, Stevan Gajović, Siu Hang Man, and Pavlo Yatsyna. "**Pythagoras numbers for infinite algebraic fields**". In: *Revista Matemática Complutense* (2026). [https://doi.org/10.1007/s13163-026-00562-y](https://doi.org/10.1007/s13163-026-00562-y)  
 [published version](https://link.springer.com/content/pdf/10.1007/s13163-026-00562-y.pdf),
 [arXiv](https://arxiv.org/abs/2502.11222)
@@ -47,9 +51,6 @@ Nicolas Daans. "**Decidability of polynomial equations over function fields in p
 
 Karim Johannes Becher, Nicolas Daans, and Vlerë Mehmeti. "**The u-invariant of function fields in one variable**". Available as arXiv:2502.13086. Feb. 2025.  
 [arXiv](https://arxiv.org/abs/2502.13086)
-
-Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". Available as arXiv:2404.02749. Apr. 2024. Accepted for publication in *Journal für die reine und angewandte Mathematik*.  
-[arXiv](https://arxiv.org/abs/2404.02749)
 
 Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "**Uniform existential definitions of valuations in function fields in one variable**". Available as arXiv:2311.06044. Nov. 2023.  
 [arXiv](https://arxiv.org/abs/2311.06044)
