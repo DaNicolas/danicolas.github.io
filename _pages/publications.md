@@ -7,7 +7,7 @@ header-includes:
    - \usepackage{amssymb}
 ---
 
-Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". In: *Journal für die reine und angewandte Mathematik* (2026), Ahead of print. [https://doi.org/10.1515/crelle-2026-0026](https://doi.org/10.1515/crelle-2026-0026)  
+Nicolas Daans and Philip Dittmann. "**Universally defining subrings in function fields**". In: *Journal für die reine und angewandte Mathematik* 834 (2026), pp. 229-270. [https://doi.org/10.1515/crelle-2026-0026](https://doi.org/10.1515/crelle-2026-0026)  
 [published version](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2026-0026/pdf?licenseType=open-access),
 [arXiv](https://arxiv.org/abs/2404.02749)
 
