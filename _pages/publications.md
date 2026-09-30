@@ -52,7 +52,7 @@ Nicolas Daans. "**Decidability of polynomial equations over function fields in p
 Karim Johannes Becher, Nicolas Daans, and Vlerë Mehmeti. "**The u-invariant of function fields in one variable**". Available as arXiv:2502.13086. Feb. 2025.  
 [arXiv](https://arxiv.org/abs/2502.13086)
 
-Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "**Uniform existential definitions of valuations in function fields in one variable**". Accepted for publication in *Transaction of the American Mathematical Society*. Available as arXiv:2311.06044. Nov. 2023.  
+Karim Johannes Becher, Nicolas Daans, and Philip Dittmann. "**Uniform existential definitions of valuations in function fields in one variable**". Accepted for publication in *Transactions of the American Mathematical Society*. Available as arXiv:2311.06044. Nov. 2023.  
 [arXiv](https://arxiv.org/abs/2311.06044)
 
 Karim Johannes Becher, Nicolas Daans, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli. "**The Pythagoras number of a rational function field in two variables**". Available as arXiv:2302.11425. Feb. 2023.  
