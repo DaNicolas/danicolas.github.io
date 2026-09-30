@@ -84,12 +84,12 @@ author:
   name             : "Nicolas Daans"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral researcher in mathematics, interested in field theory, number theory, model theory, and all things in between."
-  location         : "Mons, Belgium"
-  employer         : "University of Mons"
+  location         : "Leuven, Belgium"
+  employer         : "KU Leuven"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Nicolas-Daans" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

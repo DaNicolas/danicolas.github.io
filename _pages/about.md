@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a mathematics researcher, currently employed as FNRS postdoctoral researcher at the Mathematics Department of the [University of Mons](https://web.umons.ac.be/fs-mathematique/en/home/) under supervision of Christian Michaux and Maja Volkov.
-I am also affiliated to the Section of Algebra in [KU Leuven - Department of Mathematics](https://wis.kuleuven.be/algebra) in the context of an FWO junior postdoctoral fellowship under supervision of [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/).
+Hi! I'm a mathematics researcher, currently employed as FWO junior postdoctoral researcher under supervision of [Raf Cluckers](https://rcluckers.perso.math.cnrs.fr/) at the Section of Algebra in [KU Leuven - Department of Mathematics](https://wis.kuleuven.be/algebra).
+I am also affiliated to the Mathematics Department of the [University of Mons](https://web.umons.ac.be/fs-mathematique/en/home/) in the context of an FNRS postdoctoral research grant under supervision of Christian Michaux and Maja Volkov.
 
 On this website you may find links to my publications and preprints, slides and sometimes recordings of talks I have given, as well as material supporting courses I teach or have taught in the past.
 
@@ -33,22 +33,6 @@ On this website you may find links to my publications and preprints, slides and 
 <div class="flex-container">
 <div class="flex-column" markdown="1">
 
-## University of Mons
-
-**Postal address:**  
-Nicolas Daans  
-Département de Mathématique  
-Place du Parc 20  
-7000 Mons  
-Belgium  
-
-**To visit me**: My office is in room 02.44 of the De Vinci building at Avenue Maistriau 15, 7000 Mons.
-
-**E-mail**: nicolas.daans (at) umons.ac.be
-
-</div>
-<div class="flex-column" markdown="1">
-
 ## KU Leuven
 
 **Postal address:**  
@@ -61,6 +45,22 @@ Belgium
 **To visit me**: My office is room 01.28 at the address mentioned above.
 
 **E-mail**: nicolas.daans (at) kuleuven.be
+
+</div>
+<div class="flex-column" markdown="1">
+
+## University of Mons
+
+**Postal address:**  
+Nicolas Daans  
+Département de Mathématique  
+Place du Parc 20  
+7000 Mons  
+Belgium  
+
+**To visit me**: My office is in room 02.44 of the De Vinci building at Avenue Maistriau 15, 7000 Mons.
+
+**E-mail**: nicolas.daans (at) umons.ac.be
 
 </div>
 </div>
